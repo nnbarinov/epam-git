@@ -1,2 +1,4 @@
 First line of code is correct
 Second line of code is correct
+Third line of code is correct
+>>>>>>> 13ce061 (Add test results for the new feature)
